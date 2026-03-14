@@ -21,4 +21,7 @@
 1. መጀመሪያ ፋይሉን Compile ያድርጉ፡
    ```bash
  javac Main.java
+ 2. ከዚያ ፕሮግራሙን ያስነሱ፡
+. ​Main.java - ዋናውን የ Java logic የያዘ ፋይል::
+. ​README.md - ስለ ፕሮጀክቱ መግለጫ::
  👨‍💻 **Developed by:** [Zerihun Dagne](https://github.com/zerihundagne880-bot)
