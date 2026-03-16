@@ -23,6 +23,7 @@ You can run this program on your PC or via **Termux** by following these steps:
    javac Main.java
 2   Execute the Application:
 java Main
+
 🛠 Project Structure
 ​Main.java — Contains the primary logic, user menu, and student data handling.
 ​README.md — Project documentation and setup instructions.
@@ -30,6 +31,7 @@ java Main
 ​👨‍💻 Developed by
 ​Zerihun Dagne
 ​GitHub: @zerihundagne880-bot
+
 ​Telegram: @zedyo123
 
 ​⭐️ If this Java project helps you, don't forget to give it a star!
