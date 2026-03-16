@@ -28,11 +28,11 @@ java Main
 ​Main.java — Contains the primary logic, user menu, and student data handling.
 ​README.md — Project documentation and setup instructions.
 
-​👨‍💻 Developed by
-​Zerihun Dagne
-​GitHub: @zerihundagne880-bot
+### 👨‍💻 Developed by
+**Zerihun Dagne**
+* GitHub: [@zerihundagne880-bot](https://github.com/zerihundagne880-bot)
+* Telegram: [@zedyo123](https://t.me/zedyo123)
 
-​Telegram: @zedyo123
-
-​⭐️ If this Java project helps you, don't forget to give it a star!
+---
+⭐️ *If you find this Java project useful, please consider giving it a star!*
 
