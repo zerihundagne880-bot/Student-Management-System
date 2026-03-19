@@ -41,23 +41,5 @@ public class Main {
         sc.close();
     }
 }
-# 1. Git ን አስጀምር
-git init
 
-# 2. ፋይሎቹን መዝግብ
-git add Main.java
-
-# 3. ለውጡን አረጋግጥ
-git commit -m "Add Student Management Java code"
-
-# 4. የ GitHub ሪፖዚቶሪህን አገናኝ
-git remote add origin https://github.com/zerihundagne880-bot/Student-Management-System.git
-
-# 5. ስምህን እና ኢሜይልህን ካልሞላህ ሙላ (ለአንድ ጊዜ ብቻ)
-git config --global user.email "your-email@example.com"
-git config --global user.name "zerihundagne880-bot"
-
-# 6. ኮዱን ላክ
-git branch -M main
-git push -u origin main
 
